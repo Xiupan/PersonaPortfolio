@@ -1,5 +1,4 @@
-# Alan Hong
-## Full-Stack Developer
+# Alan Hong / Full-Stack Developer
 
 
 ## Featured Projects
